@@ -8,7 +8,7 @@ return (
 			{'This Magic Brain will detect faces in your pictures. Get it try.'}
 		</p>
 		<p className='f4'>
-			{'Put an image link ex: https://www.spsp.org/sites/default/files/fisher-single-people-social-groups.jpg'}
+			{'Put an image link ex:'}
 		</p>
 		<p className='f4'>
 			{'https://www.spsp.org/sites/default/files/fisher-single-people-social-groups.jpg'}
