@@ -1,6 +1,6 @@
 {
   "name": "facerecognitionbrain",
-  "homepage": "https://FaridFreestyle.github.io/facerecognitionbrain ",
+  "homepage": "https://FaridFreestyle.github.io/FaceDetection",
   "version": "0.1.0",
   "main": "index.js",
   "private": true,
