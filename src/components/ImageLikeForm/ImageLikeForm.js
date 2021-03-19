@@ -10,6 +10,9 @@ return (
 		<p className='f4'>
 			{'Put an image link ex: https://www.spsp.org/sites/default/files/fisher-single-people-social-groups.jpg'}
 		</p>
+		<p className='f4'>
+			{'https://www.spsp.org/sites/default/files/fisher-single-people-social-groups.jpg'}
+		</p>
 		<div className='center'>
 			<div className=' form center pa4 br3 shadow-5'>
 				<input className='f4 pa2 w-70 center' type='tex' onChange={onInputChange}/>
